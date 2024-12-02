@@ -75,3 +75,5 @@
 - UFW firewall enabled
 - SSL with Let's Encrypt
 - Rate limiting implemented in Nginx
+
+- Link to the video from loom > https://www.loom.com/share/8906810334e24f22bc1d13d82b836c3c?sid=5f3089d8-9d46-4d39-b731-aaee9d9cd277
